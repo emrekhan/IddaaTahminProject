@@ -1,0 +1,6 @@
+framework module Pods_IddaaTahminProject {
+  umbrella header "Pods-IddaaTahminProject-umbrella.h"
+
+  export *
+  module * { export * }
+}
