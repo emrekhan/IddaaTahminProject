@@ -12,8 +12,10 @@ class test3ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-         self.view.backgroundColor = UIColor.greenColor()
+         self.view.backgroundColor = UIColor.redColor()
         // Do any additional setup after loading the view.
+        
+        
     }
 
     override func didReceiveMemoryWarning() {
