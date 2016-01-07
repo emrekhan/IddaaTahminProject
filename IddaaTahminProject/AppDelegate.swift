@@ -18,6 +18,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
         // Override point for customization after application launch.
         
         print("huhu aqeee")
+        print("emotkhan")
         
         return true
     }
